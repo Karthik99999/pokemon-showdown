@@ -8634,7 +8634,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			whirlwind: ["9M"],
 		},
 	},
-	floette: {
+	floetteeternal: {
 		learnset: {
 			alluringvoice: ["9M"],
 			batonpass: ["9M"],
